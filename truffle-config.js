@@ -26,7 +26,7 @@
 // const infuraKey = "fj4jll3k.....";
 //
 // const fs = require('fs');
- const mnemonic = 'bla bla bla bla'; //removed actual seed phrase before project submission
+ const mnemonic = 'blablablablabla'; //changed after deployment :-)
 
 module.exports = {
   /**
